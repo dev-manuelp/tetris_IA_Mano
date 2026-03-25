@@ -4,6 +4,10 @@ Un clon del clásico Tetris reinventado con **Realidad Aumentada (AR)** y **Cont
 
 El proyecto está hecho en Python y junta tres herramientas clave: **OpenCV** (para capturar el vídeo), **MediaPipe** (para que la IA entienda qué hace tu mano) y **Pygame** (para mover los bloques y la lógica del juego).
 
+
+https://github.com/user-attachments/assets/d3b6672e-c6cf-45f6-a7aa-6ff345c656d5
+
+
 <div align="center">
   <video src="https://raw.githubusercontent.com/dev-manuelp/Tetris_Show/main/Tetris_Show.mp4" controls autoplay loop muted></video>
 </div>
